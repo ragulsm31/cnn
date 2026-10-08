@@ -78,7 +78,7 @@ covid19-cnn-classification/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/covid19-cnn-classification.git
+git clone https://github.com/ragulsm31/covid19-cnn-classification.git
 cd covid19-cnn-classification
 ```
 
